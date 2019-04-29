@@ -1,7 +1,7 @@
-PRIVACY POLICY ECHO SIERRA STUDIO APPLICATIONS
+PRIVACY POLICY ECHO SIERRA STUDIO DESKTOP APPLICATIONS
 ----------------------------------------------
 
-This privacy policy governs your use of the software applications for the chrome web store that we're created by Echo Seirra Studio. 
+This privacy policy governs your use of the desktop software applications that we're created by Echo Seirra Studio. 
 
 #### **User Provided Information**
 
@@ -13,7 +13,7 @@ The Applications may collect and send information about your usage of the app, i
 
 #### **Do the Applications collect precise real time location information of the device?**
 
-The Applications do not collect precise information about the location of your mobile device. 
+Some applications may use the real time location information of the device but we do not store information about the location of your mobile device on our servers for longer than necessary. Our servers only use information about the real time location of your mobile device while providing a specific service that requires your real time location, like your real time location on a map for example.
 
 #### **Do third parties see and/or have access to information obtained by the Application?**
 
